@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Huelpsy2002/Huelpsy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 👋 Hi, I'm Hussin Ali
+# 👋 Hi, I'm Hussin Ali
 
 **Backend Developer | Security Enthusiast | Fullstack in Progress | Linux Nerd**
 
@@ -75,18 +66,12 @@ I'm a passionate developer with a strong foundation in backend development, secu
 
 ### 💬 Let's Connect
 
-* 🐙 [GitHub](https://github.com/Huelpsy2002)
-* 💼 [LinkedIn](#) \*(\*\*[https://linkedin.com/](https://linkedin.com)in/hussein-ali-8a06b9238)
+*  [GitHub](https://github.com/Huelpsy2002)
+*  [LinkedIn](https://www.linkedin.com/in/hussein-ali-8a06b9238)
+*  [Email](hussinali.dev@gmail.com)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting!
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
