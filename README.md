@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-I'm a passionate developer with a strong foundation in backend development, security research, and system-level programming. I thrive on building efficient APIs, exploring low-level concepts, and managing cloud infrastructure — mostly on Linux servers.
+I'm a passionate developer with a strong foundation in backend development. I thrive on building efficient APIs, exploring low-level concepts, and managing cloud infrastructure — mostly on Linux servers.
 
 * 🖥️ Writing clean and scalable backend logic in **C# with ASP.NET Core**
 * ⚙️ Passionate about **Linux**, servers, and automation
@@ -59,7 +59,6 @@ I'm a passionate developer with a strong foundation in backend development, secu
 
 * Frontend frameworks (React, Tailwind)
 * Docker & container orchestration
-* Security research & ethical hacking
 * Full CI/CD workflows
 
 ---
